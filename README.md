@@ -1,7 +1,7 @@
 # Hello, I'm Becky 👋
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="300" height="200"/>
+<img src="https://github.com/Becky04/Becky04/blob/d16a718a8111d058223a8da6908637ce696a8669/360_F_314066785_uAOxjZqdroS7cliA0AXdpkDMx2HcCpUw.jpg"/>
 </div>
 
 ## ✨ Welcome ✨ to my GitHub profile
